@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">FootballScoreKeeper</string>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="initial_score">0</string>
+    <string name="reset_twice_prompt">Press a second time to reset scores…</string>
+    <string name="safety_button_text">Safety</string>
+    <string name="field_goal_button_text">Field Goal</string>
+    <string name="touchdown_button_text">Touchdown</string>
+    <string name="extra_point_button_text">Extra Point</string>
+    <string name="team_b_title">Team B</string>
+    <string name="team_a_title">Team A</string>
+    <string name="football_image_description">Football Background Image</string>
 </resources>
